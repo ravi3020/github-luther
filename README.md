@@ -1,3 +1,3 @@
 # github
 practice github<br>
-Edit: Luther karuparthi
+Edit: Luther karu
